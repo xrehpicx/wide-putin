@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "bin":{
-    "wide-putin":"node ."
+  "repository": "https://github.com/xrehpicx/wide-putin",
+  "bin": {
+    "wide-putin": "node ."
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
